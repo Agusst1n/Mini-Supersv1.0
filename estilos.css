@@ -129,3 +129,6 @@ p{
   .fondo3{
     background-color: #E6A3A1;
   }
+  .imgfondo{
+    background-image: url("./images/Apu.png");
+  }
